@@ -1,0 +1,35 @@
+{
+  "name": "@divvit/filter-utils",
+  "description": "filter common function like: percentage, date time....",
+  "version": "0.5.0",
+  "main": "index.min.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divvit/filter-utils.git"
+  },
+  "keywords": [
+    "filter",
+    "percentage",
+    "datetime",
+    "timestamp"
+  ],
+  "author": "Anh Nguyen <anh@divvit.com> (https://wwww.divvit.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/divvit/filter-utils/issues"
+  },
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  },
+  "homepage": "https://github.com/divvit/filter-utils#readme",
+  "directories": {
+    "test": "test"
+  },
+  "engines": {
+    "node": "*"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "divvi-filter-utils",
+  "description": "filter common function like: percentage, date time....",
+  "main": "index.min.js",
+  "version": "0.1.0",
+  "authors": [
+    "Anh Nguyen <anh@divvit.com> (https://wwww.divvit.com/)"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "filter",
+    "percentage",
+    "datetime",
+    "timestamp"
+  ],
+  "homepage": "https://github.com/divvit/filter-utils",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
