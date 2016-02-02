@@ -3,7 +3,8 @@
 ## Installation
 
 ````
-bower install @divvit/filter-utils
+bower install divvit-filter-utils
+
 ````
 
 ## v0.1.0 Stable
