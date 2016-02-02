@@ -1,5 +1,5 @@
 {
-  "name": "divvi-filter-utils",
+  "name": "divvit-filter-utils",
   "description": "filter common function like: percentage, date time....",
   "main": "index.min.js",
   "version": "0.1.0",
